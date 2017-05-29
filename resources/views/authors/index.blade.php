@@ -6,7 +6,7 @@
 			<div class="col-md-12">
 				<ul class="breadcrumb">
 					<li><a href="{{ url('/home') }}">Dashboard</a></li>
-					<li class="active">Penulis</li>
+					<li class="active">Penulis Buku</li>
 				</ul>
 
 				<div class="panel panel-default">
